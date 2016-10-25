@@ -1,0 +1,3 @@
+# Add CLI tools from the project's Composer dependencies (e.g. Drush and
+# Drupal Console) to the PATH.
+PATH=/app/vendor/bin:$PATH
