@@ -4,7 +4,6 @@ drush/contrib
 vendor
 web/core
 web/modules/contrib
-web/modules/custom
 web/themes/contrib
 web/profiles/contrib
 web/libraries
@@ -13,7 +12,6 @@ web/.editorconfig
 web/.eslintignore
 web/.eslintrc
 web/.eslintrc.json
-web/.gitattributes
 web/.htaccess
 web/autoload.php
 web/index.php
